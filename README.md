@@ -5,7 +5,7 @@ ChatGPT PDF电子书，学习资料，资源，持续更新
 
 建议直接用原生chatGPT，而不是接入api key的各类应用。👍优点：支持GP4，支持code interpreter，这些都不是接入api key能比的。
 
-如果在找稳定的梯子，可以下载[ChatBrowser](https://manual.chatbrowser.top/release-note)，每个月都有免费流量，这个羊毛必须薅
+❤️如果在找稳定的梯子，可以下载[ChatBrowser](https://manual.chatbrowser.top/release-note)，每个月都有免费流量，这个羊毛必须薅
 
 ## 资料🔥 
 
